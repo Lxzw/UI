@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"video	Tag"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"cons",
+				"Set Syntax: R Console"
+			],
+			[
+				"j",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler())); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package  Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+			"22*3*p",
+			"1+1",
+			"print(\"hello world\")",
+			"pring"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/UI"
+	],
+	"file_history":
+	[
+		"/E/UI/index.html",
+		"/E/UI/index2.html",
+		"/C/Users/L/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/L/git/sip03/src/main/java/com/springinpractice/ch03/model/Contact.java",
+		"/C/Users/L/git/sip03/src/main/java/com/springinpractice/ch03/view/SitePreferenceDelegatingViewResolver.java",
+		"/C/Users/L/git/sip03/pom.xml",
+		"/C/Users/L/git/sip03/.gitignore",
+		"/C/Users/L/git/sip03/src/main/java/com/springinpractice/ch03/web/ContactController.java",
+		"/C/Users/L/git/sip03/src/main/resources/log4j.xml",
+		"/C/Users/L/git/sip03/src/main/webapp/WEB-INF/main-servlet.xml",
+		"/C/Users/L/git/sip03/src/main/webapp/WEB-INF/jsp/mobile/contact/detail.jsp",
+		"/C/Users/L/Desktop/simpletemplate.java",
+		"/E/news-template.html",
+		"/E/xzw/sts-bundle/sts-3.6.0.RELEASE/xinyue.log.1",
+		"/D/test/news-detail.html",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/webservice33/WEB-INF/html/4f80e94d7c464712bd8c0de388c9db56.html",
+		"/C/Users/L/Documents/dumps/Dump20141004-1.sql",
+		"/C/Users/L/Documents/dumps/Dump20141004-2.sql",
+		"/C/Users/L/Documents/dumps/Dump20141007.sql",
+		"/E/logs/ssh.log",
+		"/E/新越网/weixin/css/index.css",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/webservice33/WEB-INF/html/css/index.css",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/webservice33/WEB-INF/html/0ba9f37da15b47fc96660ca745a8d745.html",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/webservice33/WEB-INF/html/4c6d1dc7e11c4c3f8302fe8e2cfb734e.html",
+		"/C/Users/L/Desktop/20141002.txt",
+		"/D/test/news_.html",
+		"/E/test/log.txt.1",
+		"/C/Users/L/Documents/dumps/Dump20141004.sql",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/webservice33/WEB-INF/html/6d6ef57f78ea4971a0fc16d4481a4602.html",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/webservice33/WEB-INF/html/news.html",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp3/wtpwebapps/webservice33/WEB-INF/html/news.html",
+		"/E/news.html",
+		"/E/newsdetails.html",
+		"/E/test.html",
+		"/E/新越网/weixin9.26/css/index.css",
+		"/E/新越网/weixin新越网微网站/index.html",
+		"/E/test.text",
+		"/C/Users/L/Documents/workspace-sts-3.6.0.RELEASE/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/webservice33/WEB-INF/html/ordertab.html",
+		"/E/weixin92/phone.html",
+		"/E/weixin92/job.html",
+		"/E/weixin92/order.html",
+		"/E/weixin92/index.html",
+		"/E/bot/bot-package-1.4/examples/ch1/WebServer/WebServer.java",
+		"/C/Users/L/Documents/dumps/Dump20140916.sql",
+		"/C/Users/L/Documents/dumps/Dump20140916/moke_m_advertising_info.sql",
+		"/C/Users/L/Documents/dumps/Dump20140916/moke_m_member_info.sql",
+		"/C/Users/L/Documents/dumps/Dump20140916/moke_m_order_info.sql",
+		"/C/Users/L/Documents/dumps/Dump20140916/moke_m_member_hold.sql",
+		"/C/Users/L/Documents/Tencent Files/741342093/FileRecv/video.html",
+		"/C/Users/L/Desktop/test.html",
+		"/C/Users/L/Downloads/123.json",
+		"/C/Users/L/.ssh/config",
+		"/E/新越网/微网站/index.html",
+		"/D/apache-maven-3.2.2/conf/settings.xml",
+		"/D/apache-maven-3.2.2/README.txt",
+		"/C/Users/L/Downloads/1.json",
+		"/D/apache-maven-3.2.2/conf/logging/simplelogger.properties",
+		"/C/Users/L/workspace/Youku首页/WebContent/index.html",
+		"/C/Users/L/workspace/Youku首页/WebContent/css/style.css",
+		"/E/xzw/tomcat7.0.54/webapps/moke/WEB-INF/spring-servlet.xml",
+		"/C/Users/L/Desktop/信贷/moke.sql",
+		"/C/Users/L/Desktop/信贷/moke/src/main/webapp/WEB-INF/classes/moke.properties",
+		"/C/Users/L/Desktop/信贷/moke/src/main/webapp/WEB-INF/jsp/admin/home.jsp",
+		"/C/Users/L/Desktop/信贷/7.23/advance/src/main/webapp/WEB-INF/jsp/site/member-order.jsp",
+		"/C/Users/L/Desktop/信贷/7.23/advance/src/main/webapp/WEB-INF/jsp/site/member-info.jsp",
+		"/C/Users/L/Desktop/信贷/moke/src/main/java/com/moke/web/admin/news/NewController.java",
+		"/C/Users/L/Desktop/信贷/7.23/common/src/com/moke/common/utils/ParamUtils.java",
+		"/C/Users/L/Downloads/辽宁状态监控需求.txt",
+		"/E/apache-tomcat-8.0.9-src/.classpath",
+		"/C/Program Files/MySQL/MySQL Server 5.6/share/innodb_memcached_config.sql",
+		"/C/Users/L/Desktop/aa.sql",
+		"/E/xzw/tomcat7.0.54/webapps/moke/index.jsp",
+		"/C/Users/L/Desktop/信贷/moke/src/main/webapp/WEB-INF/classes/system.properties"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"set",
+			"\\bset\\b",
+			"error",
+			"err",
+			"Error",
+			"\n</",
+			"ORDER_STATUS_BLANK_PENDING"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "E:\\UI"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "E:\\UI\\edmis"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pom",
+				"pom.xml"
+			],
+			[
+				"",
+				"src\\main\\java\\com\\springinpractice\\ch03\\model\\Contact.java"
+			],
+			[
+				"co",
+				"src\\main\\java\\com\\springinpractice\\ch03\\model\\Contact.java"
+			],
+			[
+				"sc",
+				"src\\main\\java\\com\\springinpractice\\ch03\\web\\ContactController.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
