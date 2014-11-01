@@ -1,0 +1,92 @@
+body {
+	font-family: sans-serif;
+}
+
+h3 {
+	margin: 10px;
+}
+.header, .content, .bottom {
+	width: 100%;
+	height: 200px;
+	margin:5px auto 5px auto;
+	background-color: rgba(209, 210, 190, 0.5);
+}	
+.menu {
+	position: relative;
+	top:180px;
+	background-color: 
+}
+.nav {
+	max-width: 160px;
+	min-width: 120px;
+	display: inline;
+	float: left;
+	position: relative;
+}
+
+.access {
+	max-width: 100px;
+	min-width: 80px;
+	display: inline;;
+	float: right;
+	position: relative;
+	margin:auto 5px auto 5px;
+}
+
+.access a {
+	text-decoration: none;
+}
+
+.access a:hover {
+	background-color: blue;
+}
+
+.access a:visited {
+	background-color: red;
+}
+
+.loginforum {
+	border-top:  1px solid black;
+}
+
+.forum,.button {
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 100px;
+	position: relative;
+}
+
+.forum label {
+	border: 1px solid white;
+	width: 50px;
+	border-radius: 5px;
+	background-color:rgb(206, 242, 208);
+	color:rgb(13, 131, 13);
+	text-align: center;
+	margin-right: 30px;
+	position:relative;
+	display: inline-block;
+}
+
+.forum input {
+	border: 1px solid white;
+	border-radius: 5px;
+	position: relative;
+}
+
+.button {
+	position: relative;
+	left: 150px;
+}
+
+.button input {
+	border: 1px soild white;
+	border-radius: 5px;
+	background-color: rgba(26, 110, 78, 0.57);
+	color: rgb(250, 250, 250);
+}
+
+.button input:hover {
+	background-color: rgb(250, 250, 250);
+	color: rgba(26, 110, 78, 0.57);
+}
